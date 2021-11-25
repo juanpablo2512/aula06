@@ -1,0 +1,22 @@
+.main {
+    text-align: center;
+    margin: 500px;
+    padding: 150px;
+    width: 500px;
+    background-color: rgb(220, 216, 224);
+    border-radius: 10px;
+    box-shadow: rgb(17, 20, 22);
+}
+body {
+    background: url(https://1.bp.blogspot.com/-DPY6lMC2_20/Xdl3gY7yRQI/AAAAAAAAfvw/1sSgMahtrpYyyoZOH5dlfYS-8krJD1vGACLcBGAsYHQ/s2560/starry_sky_4k_8k-2560x1440.jpg) no-repeat;
+    background-size: cover;
+}
+#login {
+    border-color: black;
+    border-style: double;
+    margin: 0 auto;
+    padding: 5px;
+    width: 180px;
+    background-color: rgb(35, 23, 46);
+    color: white;
+}
